@@ -128,7 +128,7 @@ GROUPS = {
     ],
     # ── ÍNDICES MUNDIALES ──
     "📊 Índices Mundiales": [
-        "SPY","QQQ","DIA","IWM",
+        "SPY","XLP","XLV","XLRE","XLE","XLB","XLU","XLF","XLY","XLI","XLC","XLK","QQQ","DIA","IWM",
         "EWZ","EWW","FXI","MCHI",
         "EWU","EWG","EWQ","EWJ","EWY",
         "EWA","EZA","EWT"
