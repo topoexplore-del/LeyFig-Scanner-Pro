@@ -1,27 +1,86 @@
 {
-  "checked_at": "2026-03-19 16:26 (Bogot\u00e1)",
-  "confirmed": 1,
+  "checked_at": "2026-07-31 10:00:11 (Hora Colombia)",
+  "regime": {
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 740.5,
+    "spy_sma200": 697.38,
+    "spy_vs_sma200_pct": 6.18,
+    "drawdown_52w_pct": -2.26,
+    "realized_vol_20d": 12.4
+  },
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "VRT",
-      "composite": 81,
+      "ticker": "MNST",
+      "composite": 80,
       "prob": 95,
+      "buffett": 85,
+      "mos": -79.1,
+      "rs_rank": 87,
+      "asof": "2026-07-30",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 9.4% en 30 velas con el precio pegado al techo $99.94; posicionamiento ANTES de la ruptura",
+      "stage": 71.3,
+      "stage_rank": 87,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -12.8,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.44,
       "zones": {
-        "entry": 134.45,
-        "tp1": 140.59,
-        "tp2": 144.69,
-        "sl": 133.77
+        "entry": 97.22,
+        "tp1": 99.38,
+        "tp2": 101.54,
+        "sl": 93.98
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
+        "1 Semana"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -27.8,
+      "rs_rank": 64,
+      "asof": "2026-07-30",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 7.7% en 30 velas con el precio pegado al techo $3.23; posicionamiento ANTES de la ruptura",
+      "stage": 59.3,
+      "stage_rank": 66,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": -10.5,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.64,
+      "zones": {
+        "entry": 3.1,
+        "tp1": 3.18,
+        "tp2": 3.26,
+        "sl": 2.98
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
     {
-      "ticker": "PDD",
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
@@ -33,81 +92,81 @@
       ]
     },
     {
-      "ticker": "TSM",
+      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PBR",
+      "ticker": "FHI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EC",
+      "ticker": "RIO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "0700.HK",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PAC",
+      "ticker": "VCTR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "1810.HK",
+      "ticker": "INCY",
+      "failed": [
+        "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
+      "ticker": "NBIX",
+      "failed": [
+        "Ruptura ya avanzada (madurez 80%)"
+      ]
+    },
+    {
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "YMM",
+      "ticker": "AMG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "NEM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ITX",
+      "ticker": "LMT",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "BABA",
+      "ticker": "LMT",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "LI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "9988.HK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
