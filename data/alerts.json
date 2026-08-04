@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-08-04 14:32:23 (Hora Colombia)",
+  "checked_at": "2026-08-04 17:12:44 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 772.41,
-    "spy_sma200": 698.48,
-    "spy_vs_sma200_pct": 10.58,
+    "spy_price": 771.33,
+    "spy_sma200": 698.47,
+    "spy_vs_sma200_pct": 10.43,
     "drawdown_52w_pct": 0.0,
-    "realized_vol_20d": 14.8
+    "realized_vol_20d": 14.5
   },
   "confirmed": 2,
   "signals": [
@@ -163,9 +163,9 @@
       ]
     },
     {
-      "ticker": "LMT",
+      "ticker": "NVDA",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
