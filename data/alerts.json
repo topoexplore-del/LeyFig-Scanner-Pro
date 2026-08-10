@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-10 16:42:03 (Hora Colombia)",
+  "checked_at": "2026-08-10 17:39:39 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,32 +13,32 @@
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "HDEF",
-      "composite": 15,
-      "prob": 63,
+      "ticker": "LVHI",
+      "composite": 25,
+      "prob": 95,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 54,
-      "asof": "2026-08-07",
+      "rs_rank": 60,
+      "asof": "2026-08-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "setup": "PRERUPTURA",
       "setup_icon": "\ud83c\udfaf",
       "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 7.1% en 30 velas con el precio pegado al techo $34.22; posicionamiento ANTES de la ruptura",
-      "stage": 72.9,
-      "stage_rank": 78,
+      "setup_desc": "Rango estrecho de 6.5% en 30 velas con el precio pegado al techo $43.02; posicionamiento ANTES de la ruptura",
+      "stage": 76.8,
+      "stage_rank": 85,
       "etapa": "TARD\u00cdA",
       "etapa_icon": "\ud83d\udd34",
-      "upside_left": 5.3,
+      "upside_left": null,
       "entry_mode": "dentro de la base",
-      "pullback_pct": -0.18,
+      "pullback_pct": -0.16,
       "zones": {
-        "entry": 34.06,
-        "tp1": 34.36,
-        "tp2": 34.66,
-        "sl": 33.61
+        "entry": 42.88,
+        "tp1": 43.22,
+        "tp2": 43.56,
+        "sl": 42.37
       },
       "periods": [
         "1-3 Meses"
@@ -55,7 +55,13 @@
     {
       "ticker": "HRMY",
       "failed": [
-        "Ruptura ya avanzada (madurez 66%)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EOG",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -65,9 +71,21 @@
       ]
     },
     {
-      "ticker": "STZ",
+      "ticker": "CF",
+      "failed": [
+        "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
+      "ticker": "VIST",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "PSX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -85,11 +103,23 @@
     {
       "ticker": "EC",
       "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 66%)"
       ]
     },
     {
       "ticker": "RIO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DINO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SM",
       "failed": [
         "Radar"
       ]
@@ -102,36 +132,6 @@
     },
     {
       "ticker": "AA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "INCY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WES",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "HL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NEM",
       "failed": [
         "Radar"
       ]
