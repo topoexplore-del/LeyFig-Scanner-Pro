@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-14 16:26:15 (Hora Colombia)",
+  "checked_at": "2026-08-14 17:15:41 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,77 +10,8 @@
     "drawdown_52w_pct": -0.2,
     "realized_vol_20d": 13.4
   },
-  "confirmed": 2,
-  "signals": [
-    {
-      "ticker": "CIEN",
-      "composite": 65,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -91.6,
-      "rs_rank": 3,
-      "asof": "2026-08-13",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "GIRO",
-      "setup_icon": "\ud83d\udd04",
-      "setup_nombre": "Giro desde sobreventa",
-      "setup_desc": "RSI toc\u00f3 30 y gira (57) con el precio sobre su SMA200; arranque de recuperaci\u00f3n en tendencia mayor alcista",
-      "stage": 56.4,
-      "stage_rank": 48,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": 8.0,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -1.44,
-      "zones": {
-        "entry": 436.42,
-        "tp1": 468.29,
-        "tp2": 500.16,
-        "sl": 388.62
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "DVYE",
-      "composite": 25,
-      "prob": 73,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 20,
-      "asof": "2026-08-13",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "RUPTURA",
-      "setup_icon": "\ud83d\ude80",
-      "setup_nombre": "Ruptura reciente (3d)",
-      "setup_desc": "Rompi\u00f3 la base de $31.92\u2013$34.29 hace 3 vela(s); el movimiento acaba de nacer",
-      "stage": 32.7,
-      "stage_rank": 19,
-      "etapa": "TEMPRANA",
-      "etapa_icon": "\ud83d\udfe2",
-      "upside_left": 9.2,
-      "entry_mode": "retest de la ruptura",
-      "pullback_pct": -0.09,
-      "zones": {
-        "entry": 33.96,
-        "tp1": 34.27,
-        "tp2": 34.58,
-        "sl": 33.49
-      },
-      "periods": [
-        "1 Mes"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "BVN",
@@ -107,6 +38,12 @@
       ]
     },
     {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VIST",
       "failed": [
         "Radar"
@@ -127,13 +64,7 @@
     {
       "ticker": "EC",
       "failed": [
-        "Ruptura ya avanzada (madurez 69%)"
-      ]
-    },
-    {
-      "ticker": "RIO",
-      "failed": [
-        "Radar"
+        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
@@ -144,6 +75,12 @@
     },
     {
       "ticker": "SM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MATX",
       "failed": [
         "Radar"
       ]
@@ -162,12 +99,6 @@
     },
     {
       "ticker": "KRT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PIPR",
       "failed": [
         "Radar"
       ]
