@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-18 16:24:16 (Hora Colombia)",
+  "checked_at": "2026-08-18 17:08:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,45 +13,43 @@
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "LVHI",
-      "composite": 25,
-      "prob": 74,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 48,
-      "asof": "2026-08-17",
+      "ticker": "AIR",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 25,
+      "mos": -53.8,
+      "rs_rank": 93,
+      "asof": "2026-08-18",
       "live": null,
       "status": null,
       "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 4.6% en 30 velas con el precio pegado al techo $43.02; posicionamiento ANTES de la ruptura",
-      "stage": 69.2,
-      "stage_rank": 68,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": 1.1,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.14,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.1% desde $153.71 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 61.6,
+      "stage_rank": 63,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": -8.4,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.87,
       "zones": {
-        "entry": 42.74,
-        "tp1": 43.03,
-        "tp2": 43.32,
-        "sl": 42.3
+        "entry": 147.73,
+        "tp1": 154.19,
+        "tp2": 160.65,
+        "sl": 138.04
       },
       "periods": [
-        "1 Mes"
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     }
   ],
   "watchlist": [
-    {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "BVN",
       "failed": [
@@ -77,9 +75,9 @@
       ]
     },
     {
-      "ticker": "PBR",
+      "ticker": "CF",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
@@ -90,6 +88,12 @@
     },
     {
       "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SMCI",
       "failed": [
         "Radar"
       ]
@@ -109,7 +113,7 @@
     {
       "ticker": "EC",
       "failed": [
-        "Ruptura ya avanzada (madurez 76%)"
+        "Radar"
       ]
     },
     {
@@ -131,7 +135,7 @@
       ]
     },
     {
-      "ticker": "MATX",
+      "ticker": "CBOE",
       "failed": [
         "Radar"
       ]
