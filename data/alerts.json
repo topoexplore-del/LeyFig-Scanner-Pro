@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-21 16:25:43 (Hora Colombia)",
+  "checked_at": "2026-08-21 17:11:01 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,8 +10,44 @@
     "drawdown_52w_pct": -1.56,
     "realized_vol_20d": 13.2
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "HRMY",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 100,
+      "mos": -9.4,
+      "rs_rank": 87,
+      "asof": "2026-08-21",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 4.5% desde $39.93 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 59.0,
+      "stage_rank": 57,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": -16.7,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.71,
+      "zones": {
+        "entry": 37.88,
+        "tp1": 39.23,
+        "tp2": 40.58,
+        "sl": 35.86
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -21,6 +57,18 @@
     },
     {
       "ticker": "BVN",
+      "failed": [
+        "Ruptura ya avanzada (madurez 44%)"
+      ]
+    },
+    {
+      "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
@@ -34,13 +82,25 @@
     {
       "ticker": "CF",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Ruptura ya avanzada (madurez 71%)"
       ]
     },
     {
       "ticker": "VIST",
       "failed": [
-        "Ruptura ya avanzada (madurez 55%)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FHI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "APA",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -52,7 +112,19 @@
     {
       "ticker": "RIO",
       "failed": [
-        "Ruptura ya avanzada (madurez 65%)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DINO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SM",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -62,43 +134,7 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "SQM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SCCO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NEU",
       "failed": [
         "Radar"
       ]
