@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-08-20 17:14:27 (Hora Colombia)",
+  "checked_at": "2026-08-21 10:33:20 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 762.6,
-    "spy_sma200": 704.54,
-    "spy_vs_sma200_pct": 8.24,
-    "drawdown_52w_pct": -1.96,
+    "spy_price": 765.93,
+    "spy_sma200": 704.98,
+    "spy_vs_sma200_pct": 8.65,
+    "drawdown_52w_pct": -1.54,
     "realized_vol_20d": 13.2
   },
   "confirmed": 1,
@@ -18,7 +18,7 @@
       "prob": 63,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 50,
+      "rs_rank": 48,
       "asof": "2026-08-20",
       "live": null,
       "status": null,
@@ -27,8 +27,8 @@
       "setup_icon": "\ud83c\udfaf",
       "setup_nombre": "Pre-ruptura (base comprimida)",
       "setup_desc": "Rango estrecho de 6.1% en 30 velas con el precio pegado al techo $56.66; posicionamiento ANTES de la ruptura",
-      "stage": 61.5,
-      "stage_rank": 66,
+      "stage": 60.4,
+      "stage_rank": 60,
       "etapa": "MEDIA",
       "etapa_icon": "\ud83d\udfe1",
       "upside_left": 11.2,
@@ -36,9 +36,9 @@
       "pullback_pct": -0.21,
       "zones": {
         "entry": 56.08,
-        "tp1": 56.67,
-        "tp2": 57.26,
-        "sl": 55.2
+        "tp1": 56.69,
+        "tp2": 57.3,
+        "sl": 55.16
       },
       "periods": [
         "1-3 Meses"
