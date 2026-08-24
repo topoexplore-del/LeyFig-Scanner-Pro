@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-24 16:29:25 (Hora Colombia)",
+  "checked_at": "2026-08-24 17:16:14 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -17,28 +17,28 @@
       "composite": 100,
       "prob": 95,
       "buffett": 100,
-      "mos": -9.4,
-      "rs_rank": 87,
-      "asof": "2026-08-21",
+      "mos": -10.2,
+      "rs_rank": 90,
+      "asof": "2026-08-24",
       "live": null,
       "status": null,
       "max_chase": null,
       "setup": "PULLBACK",
       "setup_icon": "\u21a9\ufe0f",
       "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 4.5% desde $39.93 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 59.0,
-      "stage_rank": 57,
+      "setup_desc": "Corrigi\u00f3 3.6% desde $39.93 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 61.0,
+      "stage_rank": 61,
       "etapa": "MEDIA",
       "etapa_icon": "\ud83d\udfe1",
-      "upside_left": -16.7,
+      "upside_left": -17.5,
       "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.71,
+      "pullback_pct": -0.7,
       "zones": {
-        "entry": 37.88,
-        "tp1": 39.23,
-        "tp2": 40.58,
-        "sl": 35.86
+        "entry": 38.23,
+        "tp1": 39.58,
+        "tp2": 40.93,
+        "sl": 36.2
       },
       "periods": [
         "1 Mes",
@@ -52,13 +52,13 @@
     {
       "ticker": "PBR",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Radar"
       ]
     },
     {
       "ticker": "BVN",
       "failed": [
-        "Ruptura ya avanzada (madurez 44%)"
+        "Ruptura ya avanzada (madurez 41%)"
       ]
     },
     {
@@ -76,17 +76,23 @@
     {
       "ticker": "PBR",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Radar"
       ]
     },
     {
       "ticker": "CF",
       "failed": [
-        "Ruptura ya avanzada (madurez 71%)"
+        "Radar"
       ]
     },
     {
       "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "STZ",
       "failed": [
         "Radar"
       ]
@@ -129,12 +135,6 @@
     },
     {
       "ticker": "AA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
