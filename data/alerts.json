@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-25 16:29:01 (Hora Colombia)",
+  "checked_at": "2026-08-25 17:15:59 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,52 +13,49 @@
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "HRMY",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 100,
-      "mos": -10.2,
-      "rs_rank": 90,
-      "asof": "2026-08-24",
+      "ticker": "ESGD",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 57,
+      "asof": "2026-08-25",
       "live": null,
       "status": null,
       "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 3.6% desde $39.93 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 61.0,
-      "stage_rank": 61,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": -17.5,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.7,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 6.0% en 30 velas con el precio pegado al techo $107.78; posicionamiento ANTES de la ruptura",
+      "stage": 67.7,
+      "stage_rank": 73,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": 6.5,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.18,
       "zones": {
-        "entry": 38.23,
-        "tp1": 39.58,
-        "tp2": 40.93,
-        "sl": 36.2
+        "entry": 107.54,
+        "tp1": 108.48,
+        "tp2": 109.42,
+        "sl": 106.13
       },
       "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "1-3 Meses"
       ]
     }
   ],
   "watchlist": [
     {
-      "ticker": "PBR",
+      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "BVN",
+      "ticker": "HRMY",
       "failed": [
-        "Ruptura ya avanzada (madurez 41%)"
+        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
@@ -69,12 +66,6 @@
     },
     {
       "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PBR",
       "failed": [
         "Radar"
       ]
@@ -98,7 +89,7 @@
       ]
     },
     {
-      "ticker": "STZ",
+      "ticker": "SMCI",
       "failed": [
         "Radar"
       ]
@@ -111,12 +102,6 @@
     },
     {
       "ticker": "APA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EC",
       "failed": [
         "Radar"
       ]
@@ -137,6 +122,18 @@
       "ticker": "SM",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "failed": [
+        "Ruptura ya avanzada (madurez 46%)"
       ]
     }
   ]
