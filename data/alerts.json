@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-27 19:17:06 (Hora Colombia)",
+  "checked_at": "2026-08-28 00:54:42 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,8 +10,77 @@
     "drawdown_52w_pct": -0.87,
     "realized_vol_20d": 10.5
   },
-  "confirmed": 2,
+  "confirmed": 3,
   "signals": [
+    {
+      "ticker": "BVN",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 90,
+      "mos": 9.6,
+      "rs_rank": 52,
+      "asof": "2026-08-27",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "RUPTURA",
+      "setup_icon": "\ud83d\ude80",
+      "setup_nombre": "Ruptura reciente (4d)",
+      "setup_desc": "Rompi\u00f3 la base de $28.36\u2013$34.80 hace 4 vela(s); el movimiento acaba de nacer",
+      "stage": 34.4,
+      "stage_rank": 29,
+      "etapa": "TEMPRANA",
+      "etapa_icon": "\ud83d\udfe2",
+      "upside_left": 17.8,
+      "entry_mode": "retest de la ruptura",
+      "pullback_pct": -4.13,
+      "zones": {
+        "entry": 34.8,
+        "tp1": 36.29,
+        "tp2": 37.78,
+        "sl": 32.56
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 26.7,
+      "rs_rank": 69,
+      "asof": "2026-08-27",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 9.6% en 30 velas con el precio pegado al techo $93.65; posicionamiento ANTES de la ruptura",
+      "stage": 52.2,
+      "stage_rank": 47,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": 8.0,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.31,
+      "zones": {
+        "entry": 90.42,
+        "tp1": 91.84,
+        "tp2": 93.26,
+        "sl": 88.29
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
     {
       "ticker": "ANET",
       "composite": 80,
@@ -28,7 +97,7 @@
       "setup_nombre": "Pullback en tendencia",
       "setup_desc": "Corrigi\u00f3 4.5% desde $210.50 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
       "stage": 66.0,
-      "stage_rank": 72,
+      "stage_rank": 71,
       "etapa": "TARD\u00cdA",
       "etapa_icon": "\ud83d\udd34",
       "upside_left": -18.9,
@@ -47,55 +116,23 @@
         "6 Meses",
         "1 A\u00f1o"
       ]
-    },
-    {
-      "ticker": "DFAW",
-      "composite": 15,
-      "prob": 60,
-      "buffett": 0,
-      "mos": null,
-      "rs_rank": 51,
-      "asof": "2026-08-26",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 5.6% en 30 velas con el precio pegado al techo $86.13; posicionamiento ANTES de la ruptura",
-      "stage": 70.9,
-      "stage_rank": 84,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": -0.2,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.18,
-      "zones": {
-        "entry": 85.24,
-        "tp1": 85.97,
-        "tp2": 86.7,
-        "sl": 84.14
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
     }
   ],
   "watchlist": [
     {
-      "ticker": "BVN",
-      "failed": [
-        "Ruptura ya avanzada (madurez 46%)"
-      ]
-    },
-    {
       "ticker": "HRMY",
       "failed": [
-        "Ruptura ya avanzada (madurez 68%)"
+        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
       "ticker": "VLO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
@@ -121,7 +158,13 @@
     {
       "ticker": "FHI",
       "failed": [
-        "Ruptura ya avanzada (madurez 70%)"
+        "Ruptura ya avanzada (madurez 68%)"
+      ]
+    },
+    {
+      "ticker": "APA",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -162,12 +205,6 @@
     },
     {
       "ticker": "CBOE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
