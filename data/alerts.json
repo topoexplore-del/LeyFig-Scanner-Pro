@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-28 00:54:42 (Hora Colombia)",
+  "checked_at": "2026-08-28 18:54:45 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 771.1,
-    "spy_sma200": 706.96,
-    "spy_vs_sma200_pct": 9.07,
-    "drawdown_52w_pct": -0.87,
-    "realized_vol_20d": 10.5
+    "spy_price": 769.35,
+    "spy_sma200": 707.42,
+    "spy_vs_sma200_pct": 8.75,
+    "drawdown_52w_pct": -1.1,
+    "realized_vol_20d": 10.4
   },
-  "confirmed": 3,
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "BVN",
@@ -79,42 +79,6 @@
       "periods": [
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.6,
-      "rs_rank": 91,
-      "asof": "2026-08-27",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 4.5% desde $210.50 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 66.0,
-      "stage_rank": 71,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": -18.9,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.89,
-      "zones": {
-        "entry": 199.3,
-        "tp1": 208.27,
-        "tp2": 217.24,
-        "sl": 185.84
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
       ]
     }
   ],
