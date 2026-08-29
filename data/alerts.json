@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-28 18:54:45 (Hora Colombia)",
+  "checked_at": "2026-08-28 22:39:35 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,75 +10,41 @@
     "drawdown_52w_pct": -1.1,
     "realized_vol_20d": 10.4
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
       "ticker": "BVN",
       "composite": 100,
       "prob": 95,
       "buffett": 90,
-      "mos": 9.6,
-      "rs_rank": 52,
-      "asof": "2026-08-27",
+      "mos": 13.1,
+      "rs_rank": 53,
+      "asof": "2026-08-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "setup": "RUPTURA",
       "setup_icon": "\ud83d\ude80",
-      "setup_nombre": "Ruptura reciente (4d)",
-      "setup_desc": "Rompi\u00f3 la base de $28.36\u2013$34.80 hace 4 vela(s); el movimiento acaba de nacer",
-      "stage": 34.4,
-      "stage_rank": 29,
+      "setup_nombre": "Ruptura reciente (5d)",
+      "setup_desc": "Rompi\u00f3 la base de $28.36\u2013$34.80 hace 5 vela(s); el movimiento acaba de nacer",
+      "stage": 27.0,
+      "stage_rank": 23,
       "etapa": "TEMPRANA",
       "etapa_icon": "\ud83d\udfe2",
-      "upside_left": 17.8,
+      "upside_left": 20.7,
       "entry_mode": "retest de la ruptura",
-      "pullback_pct": -4.13,
+      "pullback_pct": -0.91,
       "zones": {
         "entry": 34.8,
-        "tp1": 36.29,
-        "tp2": 37.78,
-        "sl": 32.56
+        "tp1": 36.34,
+        "tp2": 37.88,
+        "sl": 32.49
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 50,
-      "mos": 26.7,
-      "rs_rank": 69,
-      "asof": "2026-08-27",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 9.6% en 30 velas con el precio pegado al techo $93.65; posicionamiento ANTES de la ruptura",
-      "stage": 52.2,
-      "stage_rank": 47,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": 8.0,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.31,
-      "zones": {
-        "entry": 90.42,
-        "tp1": 91.84,
-        "tp2": 93.26,
-        "sl": 88.29
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses"
       ]
     }
   ],
@@ -86,7 +52,7 @@
     {
       "ticker": "HRMY",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Radar"
       ]
     },
     {
@@ -108,12 +74,6 @@
       ]
     },
     {
-      "ticker": "VIST",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "SMCI",
       "failed": [
         "Radar"
@@ -122,7 +82,7 @@
     {
       "ticker": "FHI",
       "failed": [
-        "Ruptura ya avanzada (madurez 68%)"
+        "Radar"
       ]
     },
     {
@@ -150,12 +110,6 @@
       ]
     },
     {
-      "ticker": "MATX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "AA",
       "failed": [
         "Radar"
@@ -171,6 +125,18 @@
       "ticker": "CBOE",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "OII",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
