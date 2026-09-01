@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-01 13:12:03 (Hora Colombia)",
+  "checked_at": "2026-09-01 18:02:42 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 761.6,
+    "spy_price": 761.78,
     "spy_sma200": 708.29,
-    "spy_vs_sma200_pct": 7.53,
-    "drawdown_52w_pct": -2.09,
+    "spy_vs_sma200_pct": 7.55,
+    "drawdown_52w_pct": -2.07,
     "realized_vol_20d": 7.2
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
       "ticker": "SHEL",
@@ -43,42 +43,6 @@
       "periods": [
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.3,
-      "rs_rank": 79,
-      "asof": "2026-08-31",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 7.0% desde $210.50 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 60.4,
-      "stage_rank": 69,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": -16.6,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.86,
-      "zones": {
-        "entry": 194.0,
-        "tp1": 202.46,
-        "tp2": 210.92,
-        "sl": 181.31
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
       ]
     }
   ],
