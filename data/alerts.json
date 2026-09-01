@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-31 19:26:39 (Hora Colombia)",
+  "checked_at": "2026-08-31 20:12:05 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,38 +13,36 @@
   "confirmed": 2,
   "signals": [
     {
-      "ticker": "BVN",
-      "composite": 100,
+      "ticker": "SHEL",
+      "composite": 81,
       "prob": 95,
-      "buffett": 90,
-      "mos": 13.1,
-      "rs_rank": 53,
-      "asof": "2026-08-28",
+      "buffett": 50,
+      "mos": 25.6,
+      "rs_rank": 68,
+      "asof": "2026-08-31",
       "live": null,
       "status": null,
       "max_chase": null,
-      "setup": "RUPTURA",
-      "setup_icon": "\ud83d\ude80",
-      "setup_nombre": "Ruptura reciente (5d)",
-      "setup_desc": "Rompi\u00f3 la base de $28.36\u2013$34.80 hace 5 vela(s); el movimiento acaba de nacer",
-      "stage": 27.0,
-      "stage_rank": 23,
-      "etapa": "TEMPRANA",
-      "etapa_icon": "\ud83d\udfe2",
-      "upside_left": 20.7,
-      "entry_mode": "retest de la ruptura",
-      "pullback_pct": -0.91,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 9.6% en 30 velas con el precio pegado al techo $93.65; posicionamiento ANTES de la ruptura",
+      "stage": 60.7,
+      "stage_rank": 67,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": 5.3,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.31,
       "zones": {
-        "entry": 34.8,
-        "tp1": 36.34,
-        "tp2": 37.88,
-        "sl": 32.49
+        "entry": 91.17,
+        "tp1": 92.56,
+        "tp2": 93.95,
+        "sl": 89.09
       },
       "periods": [
-        "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
       ]
     },
     {
@@ -53,7 +51,7 @@
       "prob": 95,
       "buffett": 70,
       "mos": -85.2,
-      "rs_rank": 79,
+      "rs_rank": 80,
       "asof": "2026-08-31",
       "live": null,
       "status": null,
@@ -63,9 +61,9 @@
       "setup_nombre": "Pullback en tendencia",
       "setup_desc": "Corrigi\u00f3 7.0% desde $210.50 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
       "stage": 60.4,
-      "stage_rank": 68,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
+      "stage_rank": 66,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
       "upside_left": -16.6,
       "entry_mode": "al giro (ya corregido)",
       "pullback_pct": -0.86,
@@ -86,6 +84,18 @@
   ],
   "watchlist": [
     {
+      "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BVN",
+      "failed": [
+        "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
       "ticker": "HRMY",
       "failed": [
         "Radar"
@@ -98,6 +108,12 @@
       ]
     },
     {
+      "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "CF",
       "failed": [
         "Radar"
@@ -105,6 +121,12 @@
     },
     {
       "ticker": "SMCI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VIST",
       "failed": [
         "Radar"
       ]
@@ -128,6 +150,12 @@
       ]
     },
     {
+      "ticker": "EC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "RIO",
       "failed": [
         "Radar"
@@ -143,36 +171,6 @@
       "ticker": "SM",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "AA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SQM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CBOE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "INCY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OII",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
