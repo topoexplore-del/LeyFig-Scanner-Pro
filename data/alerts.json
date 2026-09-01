@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-01 18:02:42 (Hora Colombia)",
+  "checked_at": "2026-09-01 18:56:01 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,16 +10,16 @@
     "drawdown_52w_pct": -2.07,
     "realized_vol_20d": 7.2
   },
-  "confirmed": 1,
+  "confirmed": 3,
   "signals": [
     {
       "ticker": "SHEL",
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 25.6,
-      "rs_rank": 68,
-      "asof": "2026-08-31",
+      "mos": 22.9,
+      "rs_rank": 71,
+      "asof": "2026-09-01",
       "live": null,
       "status": null,
       "max_chase": null,
@@ -27,22 +27,86 @@
       "setup_icon": "\ud83c\udfaf",
       "setup_nombre": "Pre-ruptura (base comprimida)",
       "setup_desc": "Rango estrecho de 9.6% en 30 velas con el precio pegado al techo $93.65; posicionamiento ANTES de la ruptura",
-      "stage": 60.7,
-      "stage_rank": 67,
+      "stage": 72.4,
+      "stage_rank": 94,
       "etapa": "TARD\u00cdA",
       "etapa_icon": "\ud83d\udd34",
-      "upside_left": 5.3,
+      "upside_left": 2.9,
       "entry_mode": "dentro de la base",
       "pullback_pct": -0.31,
       "zones": {
-        "entry": 91.17,
-        "tp1": 92.56,
-        "tp2": 93.95,
-        "sl": 89.09
+        "entry": 93.22,
+        "tp1": 94.68,
+        "tp2": 96.14,
+        "sl": 91.03
       },
       "periods": [
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "EWZ",
+      "composite": 25,
+      "prob": 65,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 57,
+      "asof": "2026-09-01",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 8.8% en 30 velas con el precio pegado al techo $36.65; posicionamiento ANTES de la ruptura",
+      "stage": 45.1,
+      "stage_rank": 46,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": 19.5,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.38,
+      "zones": {
+        "entry": 36.43,
+        "tp1": 37.12,
+        "tp2": 37.81,
+        "sl": 35.4
+      },
+      "periods": [
+        "1 Semana"
+      ]
+    },
+    {
+      "ticker": "EWZ",
+      "composite": 25,
+      "prob": 65,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 57,
+      "asof": "2026-09-01",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 8.8% en 30 velas con el precio pegado al techo $36.65; posicionamiento ANTES de la ruptura",
+      "stage": 45.1,
+      "stage_rank": 46,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": 19.5,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.38,
+      "zones": {
+        "entry": 36.43,
+        "tp1": 37.12,
+        "tp2": 37.81,
+        "sl": 35.4
+      },
+      "periods": [
+        "1 Semana"
       ]
     }
   ],
@@ -54,13 +118,13 @@
       ]
     },
     {
-      "ticker": "BVN",
+      "ticker": "HRMY",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Ruptura ya avanzada (madurez 76%)"
       ]
     },
     {
-      "ticker": "HRMY",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
@@ -102,12 +166,6 @@
       ]
     },
     {
-      "ticker": "FHI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "APA",
       "failed": [
         "Radar"
@@ -116,7 +174,7 @@
     {
       "ticker": "EC",
       "failed": [
-        "Radar"
+        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
@@ -133,6 +191,12 @@
     },
     {
       "ticker": "SM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MATX",
       "failed": [
         "Radar"
       ]
