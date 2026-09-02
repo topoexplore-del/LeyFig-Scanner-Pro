@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-02 13:28:26 (Hora Colombia)",
+  "checked_at": "2026-09-02 18:01:28 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 765.43,
-    "spy_sma200": 708.79,
-    "spy_vs_sma200_pct": 7.99,
-    "drawdown_52w_pct": -1.6,
+    "spy_price": 765.16,
+    "spy_sma200": 708.78,
+    "spy_vs_sma200_pct": 7.95,
+    "drawdown_52w_pct": -1.64,
     "realized_vol_20d": 7.4
   },
-  "confirmed": 3,
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "SHEL",
@@ -43,38 +43,6 @@
       "periods": [
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "EWZ",
-      "composite": 25,
-      "prob": 65,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 62,
-      "asof": "2026-09-01",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 8.8% en 30 velas con el precio pegado al techo $36.65; posicionamiento ANTES de la ruptura",
-      "stage": 45.1,
-      "stage_rank": 44,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": 19.5,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.38,
-      "zones": {
-        "entry": 36.43,
-        "tp1": 37.12,
-        "tp2": 37.81,
-        "sl": 35.4
-      },
-      "periods": [
-        "1 Semana"
       ]
     },
     {
