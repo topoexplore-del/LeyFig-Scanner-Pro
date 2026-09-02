@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-02 18:01:28 (Hora Colombia)",
+  "checked_at": "2026-09-02 18:51:24 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,16 +10,16 @@
     "drawdown_52w_pct": -1.64,
     "realized_vol_20d": 7.4
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
       "ticker": "SHEL",
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 22.9,
-      "rs_rank": 71,
-      "asof": "2026-09-01",
+      "mos": 23.8,
+      "rs_rank": 67,
+      "asof": "2026-09-02",
       "live": null,
       "status": null,
       "max_chase": null,
@@ -27,54 +27,23 @@
       "setup_icon": "\ud83c\udfaf",
       "setup_nombre": "Pre-ruptura (base comprimida)",
       "setup_desc": "Rango estrecho de 9.6% en 30 velas con el precio pegado al techo $93.65; posicionamiento ANTES de la ruptura",
-      "stage": 72.4,
-      "stage_rank": 94,
+      "stage": 67.3,
+      "stage_rank": 84,
       "etapa": "TARD\u00cdA",
       "etapa_icon": "\ud83d\udd34",
-      "upside_left": 2.9,
+      "upside_left": 3.7,
       "entry_mode": "dentro de la base",
       "pullback_pct": -0.31,
       "zones": {
-        "entry": 93.22,
-        "tp1": 94.68,
-        "tp2": 96.14,
-        "sl": 91.03
+        "entry": 92.51,
+        "tp1": 93.94,
+        "tp2": 95.37,
+        "sl": 90.37
       },
       "periods": [
+        "1 Mes",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "EWZ",
-      "composite": 25,
-      "prob": 65,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 57,
-      "asof": "2026-09-01",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 8.8% en 30 velas con el precio pegado al techo $36.65; posicionamiento ANTES de la ruptura",
-      "stage": 45.1,
-      "stage_rank": 46,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": 19.5,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.38,
-      "zones": {
-        "entry": 36.43,
-        "tp1": 37.12,
-        "tp2": 37.81,
-        "sl": 35.4
-      },
-      "periods": [
-        "1 Semana"
       ]
     }
   ],
@@ -88,17 +57,11 @@
     {
       "ticker": "HRMY",
       "failed": [
-        "Ruptura ya avanzada (madurez 76%)"
-      ]
-    },
-    {
-      "ticker": "EOG",
-      "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "VLO",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
@@ -165,6 +128,12 @@
     },
     {
       "ticker": "MATX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
       "failed": [
         "Radar"
       ]
