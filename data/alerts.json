@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03 18:01:57 (Hora Colombia)",
+  "checked_at": "2026-09-03 18:47:41 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,43 +10,8 @@
     "drawdown_52w_pct": -0.61,
     "realized_vol_20d": 8.3
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "SHEL",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 50,
-      "mos": 23.8,
-      "rs_rank": 67,
-      "asof": "2026-09-02",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 9.6% en 30 velas con el precio pegado al techo $93.65; posicionamiento ANTES de la ruptura",
-      "stage": 67.3,
-      "stage_rank": 84,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": 3.7,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.31,
-      "zones": {
-        "entry": 92.51,
-        "tp1": 93.94,
-        "tp2": 95.37,
-        "sl": 90.37
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -55,15 +20,27 @@
       ]
     },
     {
-      "ticker": "HRMY",
+      "ticker": "BVN",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "HRMY",
+      "failed": [
+        "Ruptura ya avanzada (madurez 76%)"
       ]
     },
     {
       "ticker": "EOG",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "PARR",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -105,7 +82,7 @@
     {
       "ticker": "EC",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Entry Zones"
       ]
     },
     {
@@ -122,18 +99,6 @@
     },
     {
       "ticker": "SM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MATX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AA",
       "failed": [
         "Radar"
       ]
