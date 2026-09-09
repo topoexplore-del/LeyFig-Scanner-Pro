@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09 17:59:18 (Hora Colombia)",
+  "checked_at": "2026-09-09 18:57:31 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,11 +10,160 @@
     "drawdown_52w_pct": -1.99,
     "realized_vol_20d": 8.4
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 4,
+  "signals": [
+    {
+      "ticker": "VIST",
+      "composite": 96,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -4.1,
+      "rs_rank": 59,
+      "asof": "2026-09-09",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.2% desde $77.03 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 59.8,
+      "stage_rank": 68,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -7.7,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.8,
+      "zones": {
+        "entry": 73.97,
+        "tp1": 76.97,
+        "tp2": 79.97,
+        "sl": 69.47
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "EC",
+      "composite": 91,
+      "prob": 95,
+      "buffett": 60,
+      "mos": 300.0,
+      "rs_rank": 78,
+      "asof": "2026-09-09",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 9.7% en 30 velas con el precio pegado al techo $17.89; posicionamiento ANTES de la ruptura",
+      "stage": 75.3,
+      "stage_rank": 95,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -23.9,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.62,
+      "zones": {
+        "entry": 17.72,
+        "tp1": 18.27,
+        "tp2": 18.82,
+        "sl": 16.89
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SCCO",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -77.6,
+      "rs_rank": 89,
+      "asof": "2026-09-09",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 4.8% desde $219.70 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 51.2,
+      "stage_rank": 52,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": 11.0,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.82,
+      "zones": {
+        "entry": 207.54,
+        "tp1": 216.12,
+        "tp2": 224.7,
+        "sl": 194.67
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FCFS",
+      "composite": 76,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -54.8,
+      "rs_rank": 34,
+      "asof": "2026-09-09",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.8% desde $236.43 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 57.4,
+      "stage_rank": 63,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": -4.7,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.72,
+      "zones": {
+        "entry": 225.73,
+        "tp1": 233.94,
+        "tp2": 242.15,
+        "sl": 213.41
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
@@ -40,17 +189,11 @@
     {
       "ticker": "CF",
       "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 62%)"
       ]
     },
     {
       "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VIST",
       "failed": [
         "Radar"
       ]
@@ -65,12 +208,6 @@
       "ticker": "APA",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "EC",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
@@ -92,13 +229,19 @@
       ]
     },
     {
-      "ticker": "AA",
+      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
