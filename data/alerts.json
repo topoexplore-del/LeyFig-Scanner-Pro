@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14 18:44:08 (Hora Colombia)",
+  "checked_at": "2026-09-14 19:19:20 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,8 +10,113 @@
     "drawdown_52w_pct": -2.19,
     "realized_vol_20d": 8.8
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 3,
+  "signals": [
+    {
+      "ticker": "EC",
+      "composite": 91,
+      "prob": 95,
+      "buffett": 60,
+      "mos": 300.0,
+      "rs_rank": 10,
+      "asof": "2026-09-14",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "RUPTURA",
+      "setup_icon": "\ud83d\ude80",
+      "setup_nombre": "Ruptura reciente (2d)",
+      "setup_desc": "Rompi\u00f3 la base de $15.80\u2013$17.89 hace 2 vela(s); el movimiento acaba de nacer",
+      "stage": 72.6,
+      "stage_rank": 14,
+      "etapa": "TEMPRANA",
+      "etapa_icon": "\ud83d\udfe2",
+      "upside_left": -23.5,
+      "entry_mode": "retest de la ruptura",
+      "pullback_pct": -0.28,
+      "zones": {
+        "entry": 17.69,
+        "tp1": 18.22,
+        "tp2": 18.75,
+        "sl": 16.89
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 19.1,
+      "rs_rank": 11,
+      "asof": "2026-09-14",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "RUPTURA",
+      "setup_icon": "\ud83d\ude80",
+      "setup_nombre": "Ruptura reciente (4d)",
+      "setup_desc": "Rompi\u00f3 la base de $83.25\u2013$93.65 hace 4 vela(s); el movimiento acaba de nacer",
+      "stage": 83.1,
+      "stage_rank": 15,
+      "etapa": "TEMPRANA",
+      "etapa_icon": "\ud83d\udfe2",
+      "upside_left": -0.2,
+      "entry_mode": "retest de la ruptura",
+      "pullback_pct": -2.9,
+      "zones": {
+        "entry": 93.65,
+        "tp1": 95.11,
+        "tp2": 96.57,
+        "sl": 91.46
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -64.5,
+      "rs_rank": 10,
+      "asof": "2026-09-14",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "RUPTURA",
+      "setup_icon": "\ud83d\ude80",
+      "setup_nombre": "Ruptura reciente (3d)",
+      "setup_desc": "Rompi\u00f3 la base de $40.58\u2013$45.14 hace 3 vela(s); el movimiento acaba de nacer",
+      "stage": 73.0,
+      "stage_rank": 14,
+      "etapa": "TEMPRANA",
+      "etapa_icon": "\ud83d\udfe2",
+      "upside_left": -12.9,
+      "entry_mode": "retest de la ruptura",
+      "pullback_pct": -1.72,
+      "zones": {
+        "entry": 45.14,
+        "tp1": 46.14,
+        "tp2": 47.14,
+        "sl": 43.64
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -20,31 +125,7 @@
       ]
     },
     {
-      "ticker": "BVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HRMY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CF",
       "failed": [
         "Radar"
       ]
@@ -56,51 +137,51 @@
       ]
     },
     {
-      "ticker": "SMCI",
+      "ticker": "ABEV",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "ITUB",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Analysis"
       ]
     },
     {
-      "ticker": "EC",
-      "failed": [
-        "Ruptura ya avanzada (madurez 73%)"
-      ]
-    },
-    {
-      "ticker": "RIO",
+      "ticker": "FCX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DINO",
+      "ticker": "QCOM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "FCX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SM",
+      "ticker": "DDTA",
       "failed": [
-        "Radar"
+        "Game Theory"
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "BSCR",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
+        "Game Theory"
       ]
     }
   ]
