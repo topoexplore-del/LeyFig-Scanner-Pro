@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-09-15 13:45:41 (Hora Colombia)",
+  "checked_at": "2026-09-15 18:27:34 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 757.34,
+    "spy_price": 757.39,
     "spy_sma200": 712.99,
-    "spy_vs_sma200_pct": 6.22,
-    "drawdown_52w_pct": -2.64,
+    "spy_vs_sma200_pct": 6.23,
+    "drawdown_52w_pct": -2.63,
     "realized_vol_20d": 8.8
   },
   "confirmed": 3,
@@ -137,6 +137,12 @@
       ]
     },
     {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ABEV",
       "failed": [
         "Radar"
@@ -146,12 +152,6 @@
       "ticker": "ITUB",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "failed": [
-        "Radar"
       ]
     },
     {
@@ -186,18 +186,6 @@
     },
     {
       "ticker": "DDTA",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "EWT",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "BSCR",
       "failed": [
         "Game Theory"
       ]
