@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15 18:27:34 (Hora Colombia)",
+  "checked_at": "2026-09-15 19:01:06 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,113 +10,8 @@
     "drawdown_52w_pct": -2.63,
     "realized_vol_20d": 8.8
   },
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "EC",
-      "composite": 91,
-      "prob": 95,
-      "buffett": 60,
-      "mos": 300.0,
-      "rs_rank": 10,
-      "asof": "2026-09-14",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "RUPTURA",
-      "setup_icon": "\ud83d\ude80",
-      "setup_nombre": "Ruptura reciente (2d)",
-      "setup_desc": "Rompi\u00f3 la base de $15.80\u2013$17.89 hace 2 vela(s); el movimiento acaba de nacer",
-      "stage": 72.6,
-      "stage_rank": 14,
-      "etapa": "TEMPRANA",
-      "etapa_icon": "\ud83d\udfe2",
-      "upside_left": -23.5,
-      "entry_mode": "retest de la ruptura",
-      "pullback_pct": -0.28,
-      "zones": {
-        "entry": 17.69,
-        "tp1": 18.22,
-        "tp2": 18.75,
-        "sl": 16.89
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 50,
-      "mos": 19.1,
-      "rs_rank": 11,
-      "asof": "2026-09-14",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "RUPTURA",
-      "setup_icon": "\ud83d\ude80",
-      "setup_nombre": "Ruptura reciente (4d)",
-      "setup_desc": "Rompi\u00f3 la base de $83.25\u2013$93.65 hace 4 vela(s); el movimiento acaba de nacer",
-      "stage": 83.1,
-      "stage_rank": 15,
-      "etapa": "TEMPRANA",
-      "etapa_icon": "\ud83d\udfe2",
-      "upside_left": -0.2,
-      "entry_mode": "retest de la ruptura",
-      "pullback_pct": -2.9,
-      "zones": {
-        "entry": 93.65,
-        "tp1": 95.11,
-        "tp2": 96.57,
-        "sl": 91.46
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "BP",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 20,
-      "mos": -64.5,
-      "rs_rank": 10,
-      "asof": "2026-09-14",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "RUPTURA",
-      "setup_icon": "\ud83d\ude80",
-      "setup_nombre": "Ruptura reciente (3d)",
-      "setup_desc": "Rompi\u00f3 la base de $40.58\u2013$45.14 hace 3 vela(s); el movimiento acaba de nacer",
-      "stage": 73.0,
-      "stage_rank": 14,
-      "etapa": "TEMPRANA",
-      "etapa_icon": "\ud83d\udfe2",
-      "upside_left": -12.9,
-      "entry_mode": "retest de la ruptura",
-      "pullback_pct": -1.72,
-      "zones": {
-        "entry": 45.14,
-        "tp1": 46.14,
-        "tp2": 47.14,
-        "sl": 43.64
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "PBR",
@@ -125,7 +20,37 @@
       ]
     },
     {
+      "ticker": "CRUS",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HRMY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EOG",
+      "failed": [
+        "Ruptura ya avanzada (madurez 72%)"
+      ]
+    },
+    {
+      "ticker": "PARR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
@@ -133,61 +58,49 @@
     {
       "ticker": "VIST",
       "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 67%)"
       ]
     },
     {
-      "ticker": "PLTR",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ABEV",
+      "ticker": "EC",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ITUB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "FCX",
+      "ticker": "DINO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EWZ",
+      "ticker": "SM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "XLE",
+      "ticker": "VLO",
       "failed": [
-        "Game Theory"
+        "Radar"
       ]
     },
     {
-      "ticker": "DDTA",
+      "ticker": "PBYI",
       "failed": [
-        "Game Theory"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DVN",
+      "failed": [
+        "Ruptura ya avanzada (madurez 71%)"
       ]
     }
   ]
