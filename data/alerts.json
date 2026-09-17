@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16 18:35:32 (Hora Colombia)",
+  "checked_at": "2026-09-16 19:08:47 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,13 +10,48 @@
     "drawdown_52w_pct": -3.06,
     "realized_vol_20d": 8.7
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "A",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -64.1,
+      "rs_rank": 73,
+      "asof": "2026-09-16",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.3% desde $159.00 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 67.8,
+      "stage_rank": 66,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": -13.2,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.57,
+      "zones": {
+        "entry": 152.82,
+        "tp1": 157.17,
+        "tp2": 161.52,
+        "sl": 146.29
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "PBR",
       "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 65%)"
       ]
     },
     {
@@ -32,55 +67,25 @@
       ]
     },
     {
-      "ticker": "EOG",
-      "failed": [
-        "Ruptura ya avanzada (madurez 72%)"
-      ]
-    },
-    {
-      "ticker": "PARR",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "PBR",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CF",
-      "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 65%)"
       ]
     },
     {
       "ticker": "VIST",
       "failed": [
-        "Ruptura ya avanzada (madurez 67%)"
+        "Radar"
       ]
     },
     {
       "ticker": "APA",
       "failed": [
-        "Radar"
+        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
-      "ticker": "EC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DINO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SM",
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
@@ -92,7 +97,25 @@
       ]
     },
     {
+      "ticker": "ABEV",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "UMC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBYI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
       "failed": [
         "Radar"
       ]
@@ -101,6 +124,18 @@
       "ticker": "SHC",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FCFS",
+      "failed": [
+        "Radar"
       ]
     }
   ]
