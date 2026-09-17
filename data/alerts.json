@@ -1,17 +1,52 @@
 {
-  "checked_at": "2026-09-17 13:51:59 (Hora Colombia)",
+  "checked_at": "2026-09-17 18:25:15 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 762.43,
+    "spy_price": 762.6,
     "spy_sma200": 713.81,
-    "spy_vs_sma200_pct": 6.81,
-    "drawdown_52w_pct": -1.99,
+    "spy_vs_sma200_pct": 6.84,
+    "drawdown_52w_pct": -1.96,
     "realized_vol_20d": 9.6
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
+    {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -85.5,
+      "rs_rank": 87,
+      "asof": "2026-09-17",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 5.2% desde $210.50 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 65.4,
+      "stage_rank": 85,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -18.3,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.85,
+      "zones": {
+        "entry": 197.83,
+        "tp1": 206.31,
+        "tp2": 214.79,
+        "sl": 185.11
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
     {
       "ticker": "A",
       "composite": 69,
@@ -73,6 +108,12 @@
       ]
     },
     {
+      "ticker": "SMCI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VIST",
       "failed": [
         "Radar"
@@ -115,25 +156,19 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SEZL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SHC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "SHEL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FCFS",
       "failed": [
         "Radar"
       ]
