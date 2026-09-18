@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17 18:25:15 (Hora Colombia)",
+  "checked_at": "2026-09-17 19:00:02 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,15 +10,84 @@
     "drawdown_52w_pct": -1.96,
     "realized_vol_20d": 9.6
   },
-  "confirmed": 2,
+  "confirmed": 3,
   "signals": [
+    {
+      "ticker": "CF",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 100,
+      "mos": -19.9,
+      "rs_rank": 92,
+      "asof": "2026-09-17",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.9% desde $139.27 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 45.2,
+      "stage_rank": 50,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": 14.2,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.81,
+      "zones": {
+        "entry": 132.74,
+        "tp1": 138.13,
+        "tp2": 143.52,
+        "sl": 124.66
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "DVN",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 60,
+      "mos": 25.8,
+      "rs_rank": 84,
+      "asof": "2026-09-17",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 5.1% desde $51.33 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 42.6,
+      "stage_rank": 48,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": null,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.57,
+      "zones": {
+        "entry": 48.44,
+        "tp1": 49.86,
+        "tp2": 51.28,
+        "sl": 46.31
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
     {
       "ticker": "ANET",
       "composite": 80,
       "prob": 95,
       "buffett": 70,
       "mos": -85.5,
-      "rs_rank": 87,
+      "rs_rank": 89,
       "asof": "2026-09-17",
       "live": null,
       "status": null,
@@ -28,7 +97,7 @@
       "setup_nombre": "Pullback en tendencia",
       "setup_desc": "Corrigi\u00f3 5.2% desde $210.50 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
       "stage": 65.4,
-      "stage_rank": 85,
+      "stage_rank": 81,
       "etapa": "TARD\u00cdA",
       "etapa_icon": "\ud83d\udd34",
       "upside_left": -18.3,
@@ -46,47 +115,19 @@
         "3 Meses",
         "6 Meses"
       ]
-    },
-    {
-      "ticker": "A",
-      "composite": 69,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -64.1,
-      "rs_rank": 73,
-      "asof": "2026-09-16",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 3.3% desde $159.00 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 67.8,
-      "stage_rank": 66,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": -13.2,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.57,
-      "zones": {
-        "entry": 152.82,
-        "tp1": 157.17,
-        "tp2": 161.52,
-        "sl": 146.29
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
     }
   ],
   "watchlist": [
     {
       "ticker": "PBR",
       "failed": [
-        "Ruptura ya avanzada (madurez 65%)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BVN",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -104,7 +145,7 @@
     {
       "ticker": "PBR",
       "failed": [
-        "Ruptura ya avanzada (madurez 65%)"
+        "Radar"
       ]
     },
     {
@@ -114,7 +155,7 @@
       ]
     },
     {
-      "ticker": "VIST",
+      "ticker": "SMCI",
       "failed": [
         "Radar"
       ]
@@ -122,11 +163,29 @@
     {
       "ticker": "APA",
       "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DINO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SM",
+      "failed": [
         "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
-      "ticker": "INCY",
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
@@ -144,31 +203,7 @@
       ]
     },
     {
-      "ticker": "UMC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "PBYI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SHEL",
       "failed": [
         "Radar"
       ]
