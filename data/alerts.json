@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18 18:04:14 (Hora Colombia)",
+  "checked_at": "2026-09-18 18:52:51 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,77 +10,8 @@
     "drawdown_52w_pct": -2.08,
     "realized_vol_20d": 9.2
   },
-  "confirmed": 3,
+  "confirmed": 1,
   "signals": [
-    {
-      "ticker": "CF",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 100,
-      "mos": -19.9,
-      "rs_rank": 92,
-      "asof": "2026-09-17",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 3.9% desde $139.27 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 45.2,
-      "stage_rank": 50,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": 14.2,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.81,
-      "zones": {
-        "entry": 132.74,
-        "tp1": 138.13,
-        "tp2": 143.52,
-        "sl": 124.66
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "DVN",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 60,
-      "mos": 25.8,
-      "rs_rank": 84,
-      "asof": "2026-09-17",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 5.1% desde $51.33 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 42.6,
-      "stage_rank": 48,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": null,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.57,
-      "zones": {
-        "entry": 48.44,
-        "tp1": 49.86,
-        "tp2": 51.28,
-        "sl": 46.31
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "ANET",
       "composite": 80,
@@ -97,7 +28,7 @@
       "setup_nombre": "Pullback en tendencia",
       "setup_desc": "Corrigi\u00f3 5.3% desde $210.50 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
       "stage": 65.4,
-      "stage_rank": 87,
+      "stage_rank": 83,
       "etapa": "TARD\u00cdA",
       "etapa_icon": "\ud83d\udd34",
       "upside_left": -18.2,
@@ -142,12 +73,24 @@
       ]
     },
     {
+      "ticker": "PARR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBR",
       "failed": [
         "Radar"
       ]
     },
     {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SMCI",
       "failed": [
         "Radar"
@@ -157,6 +100,18 @@
       "ticker": "SMCI",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "EPD",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BWMX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -174,35 +129,11 @@
     {
       "ticker": "SM",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Entry Zones"
       ]
     },
     {
       "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ABEV",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PBYI",
       "failed": [
         "Radar"
       ]
