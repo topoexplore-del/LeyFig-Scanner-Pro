@@ -1,106 +1,22 @@
 {
-  "checked_at": "2026-09-21 18:52:19 (Hora Colombia)",
+  "checked_at": "2026-09-21 19:33:35 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.5,
-    "spy_sma200": 712.98,
-    "spy_vs_sma200_pct": 8.49,
-    "drawdown_52w_pct": -0.32,
-    "realized_vol_20d": 10.6
+    "spy_price": 761.69,
+    "spy_sma200": 712.48,
+    "spy_vs_sma200_pct": 6.91,
+    "drawdown_52w_pct": -1.84,
+    "realized_vol_20d": 9.2
   },
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
-      "ticker": "PBR",
+      "ticker": "GGOV",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CRUS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HRMY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PARR",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CF",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EPD",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BWMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "APA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DINO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SM",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
+        "Game Theory"
       ]
     }
   ]
