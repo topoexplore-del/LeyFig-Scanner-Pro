@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-09-22 13:33:29 (Hora Colombia)",
+  "checked_at": "2026-09-22 18:32:04 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 774.22,
-    "spy_sma200": 713.47,
-    "spy_vs_sma200_pct": 8.51,
-    "drawdown_52w_pct": -0.22,
+    "spy_price": 773.38,
+    "spy_sma200": 713.46,
+    "spy_vs_sma200_pct": 8.4,
+    "drawdown_52w_pct": -0.33,
     "realized_vol_20d": 10.5
   },
   "confirmed": 0,
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "ticker": "PLTR",
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
@@ -44,25 +44,31 @@
       ]
     },
     {
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "AMD",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EWZ",
+      "ticker": "DE",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Analysis"
       ]
     },
     {
-      "ticker": "EWY",
+      "ticker": "EWZ",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SPMO",
+      "ticker": "EWJ",
       "failed": [
         "Game Theory"
       ]
