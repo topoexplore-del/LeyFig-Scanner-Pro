@@ -1,18 +1,78 @@
 {
-  "checked_at": "2026-09-21 19:33:35 (Hora Colombia)",
+  "checked_at": "2026-09-22 13:33:29 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 761.69,
-    "spy_sma200": 712.48,
-    "spy_vs_sma200_pct": 6.91,
-    "drawdown_52w_pct": -1.84,
-    "realized_vol_20d": 9.2
+    "spy_price": 774.22,
+    "spy_sma200": 713.47,
+    "spy_vs_sma200_pct": 8.51,
+    "drawdown_52w_pct": -0.22,
+    "realized_vol_20d": 10.5
   },
   "confirmed": 0,
   "signals": [],
   "watchlist": [
+    {
+      "ticker": "SMCI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALAB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EWZ",
+      "failed": [
+        "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
+      "ticker": "EWY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SPMO",
+      "failed": [
+        "Game Theory"
+      ]
+    },
+    {
+      "ticker": "EWT",
+      "failed": [
+        "Game Theory"
+      ]
+    },
     {
       "ticker": "GGOV",
       "failed": [
