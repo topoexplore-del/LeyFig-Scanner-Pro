@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23 18:28:53 (Hora Colombia)",
+  "checked_at": "2026-09-23 19:16:59 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -20,12 +20,6 @@
       ]
     },
     {
-      "ticker": "HRMY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "PBR",
       "failed": [
         "Radar"
@@ -44,12 +38,6 @@
       ]
     },
     {
-      "ticker": "DINO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -57,12 +45,6 @@
     },
     {
       "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PBYI",
       "failed": [
         "Radar"
       ]
@@ -86,13 +68,31 @@
       ]
     },
     {
-      "ticker": "MATX",
+      "ticker": "SHEL",
       "failed": [
         "Radar"
       ]
     },
     {
       "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALAB",
       "failed": [
         "Radar"
       ]
