@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-09-25 14:10:21 (Hora Colombia)",
+  "checked_at": "2026-09-25 18:51:33 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 770.59,
-    "spy_sma200": 714.83,
-    "spy_vs_sma200_pct": 7.8,
-    "drawdown_52w_pct": -0.69,
-    "realized_vol_20d": 10.7
+    "spy_price": 771.35,
+    "spy_sma200": 714.84,
+    "spy_vs_sma200_pct": 7.91,
+    "drawdown_52w_pct": -0.59,
+    "realized_vol_20d": 10.8
   },
   "confirmed": 0,
   "signals": [],
@@ -38,12 +38,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "MU",
       "failed": [
         "Radar"
@@ -57,12 +51,6 @@
     },
     {
       "ticker": "SHEL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
@@ -87,6 +75,18 @@
     },
     {
       "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ARM",
       "failed": [
         "Radar"
       ]
