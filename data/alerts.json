@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-09-28 20:31:18 (Hora Colombia)",
+  "checked_at": "2026-09-29 14:50:42 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 771.35,
-    "spy_sma200": 714.84,
-    "spy_vs_sma200_pct": 7.91,
-    "drawdown_52w_pct": -0.59,
-    "realized_vol_20d": 10.8
+    "spy_price": 764.03,
+    "spy_sma200": 715.71,
+    "spy_vs_sma200_pct": 6.75,
+    "drawdown_52w_pct": -1.54,
+    "realized_vol_20d": 11.1
   },
   "confirmed": 1,
   "signals": [
@@ -50,6 +50,36 @@
   ],
   "watchlist": [
     {
+      "ticker": "SMCI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "failed": [
+        "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALAB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "MAR",
       "failed": [
         "Analysis"
@@ -57,6 +87,12 @@
     },
     {
       "ticker": "DDTA",
+      "failed": [
+        "Game Theory"
+      ]
+    },
+    {
+      "ticker": "EWT",
       "failed": [
         "Game Theory"
       ]
