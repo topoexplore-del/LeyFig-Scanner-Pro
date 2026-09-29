@@ -1,80 +1,62 @@
 {
-  "checked_at": "2026-09-28 16:07:15 (Hora Colombia)",
+  "checked_at": "2026-09-28 20:31:18 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 765.61,
-    "spy_sma200": 715.29,
-    "spy_vs_sma200_pct": 7.04,
-    "drawdown_52w_pct": -1.33,
-    "realized_vol_20d": 11.1
+    "spy_price": 771.35,
+    "spy_sma200": 714.84,
+    "spy_vs_sma200_pct": 7.91,
+    "drawdown_52w_pct": -0.59,
+    "realized_vol_20d": 10.8
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 19.1,
+      "rs_rank": 0,
+      "asof": "2026-09-28",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 9.1% en 30 velas con el precio pegado al techo $98.95; posicionamiento ANTES de la ruptura",
+      "stage": 74.5,
+      "stage_rank": 18,
+      "etapa": "TEMPRANA",
+      "etapa_icon": "\ud83d\udfe2",
+      "upside_left": -0.2,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.33,
+      "zones": {
+        "entry": 96.15,
+        "tp1": 97.74,
+        "tp2": 99.33,
+        "sl": 93.77
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "SMCI",
+      "ticker": "MAR",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ALAB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
       "ticker": "DDTA",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "DDFA",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "EWT",
       "failed": [
         "Game Theory"
       ]
