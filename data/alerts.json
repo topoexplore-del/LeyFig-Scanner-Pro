@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29 19:07:33 (Hora Colombia)",
+  "checked_at": "2026-09-29 20:01:43 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -17,9 +17,9 @@
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 19.1,
+      "mos": 20.8,
       "rs_rank": 0,
-      "asof": "2026-09-28",
+      "asof": "2026-09-29",
       "live": null,
       "status": null,
       "max_chase": null,
@@ -27,22 +27,20 @@
       "setup_icon": "\ud83c\udfaf",
       "setup_nombre": "Pre-ruptura (base comprimida)",
       "setup_desc": "Rango estrecho de 9.1% en 30 velas con el precio pegado al techo $98.95; posicionamiento ANTES de la ruptura",
-      "stage": 74.5,
-      "stage_rank": 18,
+      "stage": 66.3,
+      "stage_rank": 2,
       "etapa": "TEMPRANA",
       "etapa_icon": "\ud83d\udfe2",
-      "upside_left": -0.2,
+      "upside_left": 1.2,
       "entry_mode": "dentro de la base",
-      "pullback_pct": -0.33,
+      "pullback_pct": -0.34,
       "zones": {
-        "entry": 96.15,
-        "tp1": 97.74,
-        "tp2": 99.33,
-        "sl": 93.77
+        "entry": 94.82,
+        "tp1": 96.42,
+        "tp2": 98.02,
+        "sl": 92.42
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
@@ -50,15 +48,9 @@
   ],
   "watchlist": [
     {
-      "ticker": "MAR",
+      "ticker": "SBFG",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "DDTA",
-      "failed": [
-        "Game Theory"
       ]
     }
   ]
