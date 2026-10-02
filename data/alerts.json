@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01 19:33:57 (Hora Colombia)",
+  "checked_at": "2026-10-01 20:23:02 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,7 +10,41 @@
     "drawdown_52w_pct": -1.72,
     "realized_vol_20d": 10.8
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 20.2,
+      "rs_rank": 0,
+      "asof": "2026-10-01",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.4% desde $98.95 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 68.3,
+      "stage_rank": 2,
+      "etapa": "TEMPRANA",
+      "etapa_icon": "\ud83d\udfe2",
+      "upside_left": 0.7,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.32,
+      "zones": {
+        "entry": 95.3,
+        "tp1": 96.84,
+        "tp2": 98.38,
+        "sl": 92.99
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": []
 }
