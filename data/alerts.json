@@ -1,59 +1,16 @@
 {
-  "checked_at": "2026-10-01 15:09:20 (Hora Colombia)",
+  "checked_at": "2026-10-01 19:33:57 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 764.04,
-    "spy_sma200": 716.56,
-    "spy_vs_sma200_pct": 6.63,
-    "drawdown_52w_pct": -1.54,
-    "realized_vol_20d": 10.7
+    "spy_price": 762.63,
+    "spy_sma200": 716.11,
+    "spy_vs_sma200_pct": 6.5,
+    "drawdown_52w_pct": -1.72,
+    "realized_vol_20d": 10.8
   },
   "confirmed": 0,
   "signals": [],
-  "watchlist": [
-    {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ALAB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EWT",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "BSCR",
-      "failed": [
-        "Game Theory"
-      ]
-    }
-  ]
+  "watchlist": []
 }
