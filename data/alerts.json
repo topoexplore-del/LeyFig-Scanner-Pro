@@ -1,46 +1,116 @@
 {
-  "checked_at": "2026-10-06 19:24:28 (Hora Colombia)",
+  "checked_at": "2026-10-06 20:18:36 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 774.83,
-    "spy_sma200": 717.56,
-    "spy_vs_sma200_pct": 7.98,
-    "drawdown_52w_pct": -0.14,
-    "realized_vol_20d": 10.5
+    "spy_price": 779.09,
+    "spy_sma200": 718.13,
+    "spy_vs_sma200_pct": 8.49,
+    "drawdown_52w_pct": 0.0,
+    "realized_vol_20d": 10.4
   },
-  "confirmed": 1,
+  "confirmed": 3,
   "signals": [
     {
       "ticker": "NEU",
       "composite": 84,
       "prob": 95,
       "buffett": 85,
-      "mos": -50.5,
-      "rs_rank": 74,
-      "asof": "2026-10-05",
+      "mos": -50.6,
+      "rs_rank": 86,
+      "asof": "2026-10-06",
       "live": null,
       "status": null,
       "max_chase": null,
       "setup": "PRERUPTURA",
       "setup_icon": "\ud83c\udfaf",
       "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 8.6% en 30 velas con el precio pegado al techo $933.43; posicionamiento ANTES de la ruptura",
-      "stage": 77.5,
-      "stage_rank": 90,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": -15.5,
+      "setup_desc": "Rango estrecho de 7.9% en 30 velas con el precio pegado al techo $927.55; posicionamiento ANTES de la ruptura",
+      "stage": 77.6,
+      "stage_rank": 58,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": -15.7,
       "entry_mode": "dentro de la base",
-      "pullback_pct": -0.48,
+      "pullback_pct": -0.47,
       "zones": {
-        "entry": 919.94,
-        "tp1": 941.99,
-        "tp2": 964.04,
-        "sl": 886.87
+        "entry": 921.91,
+        "tp1": 943.77,
+        "tp2": 965.63,
+        "sl": 889.12
       },
       "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 17.8,
+      "rs_rank": 86,
+      "asof": "2026-10-06",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 9.1% en 30 velas con el precio pegado al techo $98.95; posicionamiento ANTES de la ruptura",
+      "stage": 76.1,
+      "stage_rank": 57,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": -1.4,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.33,
+      "zones": {
+        "entry": 97.3,
+        "tp1": 98.92,
+        "tp2": 100.54,
+        "sl": 94.87
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -64.1,
+      "rs_rank": 86,
+      "asof": "2026-10-06",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 4.2% desde $46.96 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 47.7,
+      "stage_rank": 33,
+      "etapa": "TEMPRANA",
+      "etapa_icon": "\ud83d\udfe2",
+      "upside_left": 18.8,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.47,
+      "zones": {
+        "entry": 44.8,
+        "tp1": 45.85,
+        "tp2": 46.9,
+        "sl": 43.22
+      },
+      "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses"
       ]
@@ -54,19 +124,19 @@
       ]
     },
     {
-      "ticker": "CRUS",
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PARR",
+      "ticker": "PBR",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
-      "ticker": "PBR",
+      "ticker": "SMCI",
       "failed": [
         "Radar"
       ]
@@ -102,37 +172,37 @@
       ]
     },
     {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "VLO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PBYI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PSX",
+      "ticker": "CSCO",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "VCTR",
+      "ticker": "ENS",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SCCO",
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TER",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LRCX",
       "failed": [
         "Radar"
       ]
