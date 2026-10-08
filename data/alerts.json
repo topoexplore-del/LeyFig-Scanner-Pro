@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-07 15:27:50 (Hora Colombia)",
+  "checked_at": "2026-10-07 19:45:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 777.22,
-    "spy_sma200": 718.67,
-    "spy_vs_sma200_pct": 8.15,
-    "drawdown_52w_pct": -0.24,
-    "realized_vol_20d": 10.3
+    "spy_price": 779.09,
+    "spy_sma200": 718.13,
+    "spy_vs_sma200_pct": 8.49,
+    "drawdown_52w_pct": 0.0,
+    "realized_vol_20d": 10.4
   },
   "confirmed": 3,
   "signals": [
@@ -142,12 +142,6 @@
       ]
     },
     {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "MU",
       "failed": [
         "Radar"
@@ -190,13 +184,13 @@
       ]
     },
     {
-      "ticker": "ANET",
+      "ticker": "LRCX",
       "failed": [
-        "Ruptura ya avanzada (madurez 81%)"
+        "Radar"
       ]
     },
     {
-      "ticker": "ALAB",
+      "ticker": "TER",
       "failed": [
         "Radar"
       ]
@@ -205,6 +199,12 @@
       "ticker": "LRCX",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "failed": [
+        "Ruptura ya avanzada (madurez 56%)"
       ]
     }
   ]
