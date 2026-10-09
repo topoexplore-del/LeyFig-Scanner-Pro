@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-08 20:43:45 (Hora Colombia)",
+  "checked_at": "2026-10-09 15:03:10 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 777.22,
-    "spy_sma200": 718.67,
-    "spy_vs_sma200_pct": 8.15,
-    "drawdown_52w_pct": -0.24,
-    "realized_vol_20d": 10.3
+    "spy_price": 778.25,
+    "spy_sma200": 719.66,
+    "spy_vs_sma200_pct": 8.14,
+    "drawdown_52w_pct": -0.11,
+    "realized_vol_20d": 9.9
   },
   "confirmed": 1,
   "signals": [
@@ -56,6 +56,12 @@
       ]
     },
     {
+      "ticker": "SMCI",
+      "failed": [
+        "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
       "ticker": "DINO",
       "failed": [
         "Radar"
@@ -86,6 +92,12 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "failed": [
+        "Ruptura ya avanzada (madurez 69%)"
+      ]
+    },
+    {
       "ticker": "VCTR",
       "failed": [
         "Radar"
@@ -93,6 +105,24 @@
     },
     {
       "ticker": "SCCO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALAB",
       "failed": [
         "Radar"
       ]
@@ -107,36 +137,6 @@
       "ticker": "PGNY",
       "failed": [
         "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "QLYS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SYK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MTSI",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "A",
-      "failed": [
-        "Radar"
       ]
     }
   ]
