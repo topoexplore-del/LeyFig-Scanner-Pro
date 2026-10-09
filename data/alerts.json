@@ -1,77 +1,16 @@
 {
-  "checked_at": "2026-10-08 15:33:18 (Hora Colombia)",
+  "checked_at": "2026-10-08 20:01:24 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.97,
-    "spy_sma200": 719.16,
-    "spy_vs_sma200_pct": 7.62,
-    "drawdown_52w_pct": -0.66,
-    "realized_vol_20d": 10.2
+    "spy_price": 777.22,
+    "spy_sma200": 718.67,
+    "spy_vs_sma200_pct": 8.15,
+    "drawdown_52w_pct": -0.24,
+    "realized_vol_20d": 10.3
   },
   "confirmed": 0,
   "signals": [],
-  "watchlist": [
-    {
-      "ticker": "SMCI",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "failed": [
-        "Ruptura ya avanzada (madurez 69%)"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ALAB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PWR",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EWZ",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "XLE",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "XLK",
-      "failed": [
-        "Game Theory"
-      ]
-    }
-  ]
+  "watchlist": []
 }
