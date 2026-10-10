@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09 19:32:06 (Hora Colombia)",
+  "checked_at": "2026-10-09 20:28:42 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,133 +10,13 @@
     "drawdown_52w_pct": -0.66,
     "realized_vol_20d": 10.2
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "APA",
-      "composite": 94,
-      "prob": 95,
-      "buffett": 95,
-      "mos": 1.5,
-      "rs_rank": 0,
-      "asof": "2026-10-08",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 4.1% desde $47.41 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 62.6,
-      "stage_rank": 66,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": -5.4,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -0.7,
-      "zones": {
-        "entry": 45.15,
-        "tp1": 46.75,
-        "tp2": 48.35,
-        "sl": 42.75
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "EOG",
+      "ticker": "SHEL",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DINO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CBOE",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PBYI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VCTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SCCO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TER",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PGNY",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "QLYS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SYK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MTSI",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "A",
-      "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 84%)"
       ]
     }
   ]
