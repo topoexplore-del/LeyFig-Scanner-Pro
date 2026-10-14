@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13 19:11:38 (Hora Colombia)",
+  "checked_at": "2026-10-13 19:53:52 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,132 +10,13 @@
     "drawdown_52w_pct": -0.13,
     "realized_vol_20d": 9.8
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "BP",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 20,
-      "mos": -65.5,
-      "rs_rank": 98,
-      "asof": "2026-10-12",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 9.5% en 30 velas con el precio pegado al techo $46.96; posicionamiento ANTES de la ruptura",
-      "stage": 64.7,
-      "stage_rank": 75,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": 14.4,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.47,
-      "zones": {
-        "entry": 46.51,
-        "tp1": 47.6,
-        "tp2": 48.69,
-        "sl": 44.88
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "PBR",
+      "ticker": "JMST",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "APA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DINO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CBOE",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "STZ",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DLO",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PBYI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VCTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SCCO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WMB",
-      "failed": [
-        "Analysis"
+        "Game Theory"
       ]
     }
   ]
