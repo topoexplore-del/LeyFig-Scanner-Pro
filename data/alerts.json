@@ -1,28 +1,28 @@
 {
-  "checked_at": "2026-10-14 14:13:51 (Hora Colombia)",
+  "checked_at": "2026-10-14 18:43:59 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 767.52,
-    "spy_sma200": 721.01,
-    "spy_vs_sma200_pct": 6.45,
-    "drawdown_52w_pct": -1.49,
-    "realized_vol_20d": 10.7
+    "spy_price": 769.6,
+    "spy_sma200": 721.02,
+    "spy_vs_sma200_pct": 6.74,
+    "drawdown_52w_pct": -1.22,
+    "realized_vol_20d": 10.3
   },
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
-      "ticker": "ANET",
+      "ticker": "EWZ",
       "failed": [
-        "Entry Zones"
+        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
-      "ticker": "EWZ",
+      "ticker": "XLP",
       "failed": [
-        "Radar"
+        "Game Theory"
       ]
     },
     {
