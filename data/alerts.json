@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14 18:43:59 (Hora Colombia)",
+  "checked_at": "2026-10-14 19:28:40 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,18 +13,6 @@
   "confirmed": 0,
   "signals": [],
   "watchlist": [
-    {
-      "ticker": "EWZ",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "XLP",
-      "failed": [
-        "Game Theory"
-      ]
-    },
     {
       "ticker": "JMST",
       "failed": [
