@@ -1,22 +1,40 @@
 {
-  "checked_at": "2026-10-15 13:55:45 (Hora Colombia)",
+  "checked_at": "2026-10-15 18:36:15 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 770.28,
-    "spy_sma200": 721.46,
-    "spy_vs_sma200_pct": 6.77,
-    "drawdown_52w_pct": -1.13,
+    "spy_price": 771.79,
+    "spy_sma200": 721.47,
+    "spy_vs_sma200_pct": 6.97,
+    "drawdown_52w_pct": -0.94,
     "realized_vol_20d": 9.6
   },
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
+      "ticker": "BSVN",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "EWZ",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "RWL",
+      "failed": [
+        "Game Theory"
+      ]
+    },
+    {
+      "ticker": "QYLD",
+      "failed": [
+        "Game Theory"
       ]
     },
     {
