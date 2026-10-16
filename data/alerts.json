@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15 18:36:15 (Hora Colombia)",
+  "checked_at": "2026-10-15 19:04:01 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,43 +10,262 @@
     "drawdown_52w_pct": -0.94,
     "realized_vol_20d": 9.6
   },
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
+  "confirmed": 5,
+  "signals": [
     {
-      "ticker": "BSVN",
-      "failed": [
-        "Analysis"
+      "ticker": "MNST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -76.0,
+      "rs_rank": 28,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 8.9% en 30 velas con el precio pegado al techo $45.34; posicionamiento ANTES de la ruptura",
+      "stage": 71.8,
+      "stage_rank": 86,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -6.1,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.44,
+      "zones": {
+        "entry": 45.14,
+        "tp1": 46.14,
+        "tp2": 47.14,
+        "sl": 43.64
+      },
+      "periods": [
+        "1 Semana"
       ]
     },
     {
-      "ticker": "EWZ",
+      "ticker": "CHEF",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 25,
+      "mos": -75.5,
+      "rs_rank": 92,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 9.4% en 30 velas con el precio pegado al techo $116.42; posicionamiento ANTES de la ruptura",
+      "stage": 71.8,
+      "stage_rank": 86,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -33.4,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.71,
+      "zones": {
+        "entry": 113.46,
+        "tp1": 117.5,
+        "tp2": 121.54,
+        "sl": 107.4
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -72.0,
+      "rs_rank": 83,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.9% desde $420.55 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 52.7,
+      "stage_rank": 61,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": null,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.58,
+      "zones": {
+        "entry": 401.61,
+        "tp1": 413.33,
+        "tp2": 425.05,
+        "sl": 384.03
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -72.0,
+      "rs_rank": 83,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 3.9% desde $420.55 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 52.7,
+      "stage_rank": 61,
+      "etapa": "MEDIA",
+      "etapa_icon": "\ud83d\udfe1",
+      "upside_left": null,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -0.58,
+      "zones": {
+        "entry": 401.61,
+        "tp1": 413.33,
+        "tp2": 425.05,
+        "sl": 384.03
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "LVHI",
+      "composite": 25,
+      "prob": 61,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 70,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PRERUPTURA",
+      "setup_icon": "\ud83c\udfaf",
+      "setup_nombre": "Pre-ruptura (base comprimida)",
+      "setup_desc": "Rango estrecho de 3.4% en 30 velas con el precio pegado al techo $42.84; posicionamiento ANTES de la ruptura",
+      "stage": 80.0,
+      "stage_rank": 94,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -1.5,
+      "entry_mode": "dentro de la base",
+      "pullback_pct": -0.14,
+      "zones": {
+        "entry": 42.56,
+        "tp1": 42.85,
+        "tp2": 43.14,
+        "sl": 42.12
+      },
+      "periods": [
+        "1 Semana"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "PBR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "RWL",
+      "ticker": "EOG",
       "failed": [
-        "Game Theory"
+        "Radar"
       ]
     },
     {
-      "ticker": "QYLD",
+      "ticker": "PBR",
       "failed": [
-        "Game Theory"
+        "Radar"
       ]
     },
     {
-      "ticker": "XLP",
+      "ticker": "APA",
       "failed": [
-        "Game Theory"
+        "Radar"
       ]
     },
     {
-      "ticker": "JMST",
+      "ticker": "EC",
       "failed": [
-        "Game Theory"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DINO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ACN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "STZ",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PBYI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VCTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EXPD",
+      "failed": [
+        "Ruptura ya avanzada (madurez 81%)"
       ]
     }
   ]
