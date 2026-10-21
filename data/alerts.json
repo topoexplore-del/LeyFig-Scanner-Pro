@@ -1,61 +1,52 @@
 {
-  "checked_at": "2026-10-21 14:09:39 (Hora Colombia)",
+  "checked_at": "2026-10-21 18:57:33 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 770.97,
-    "spy_sma200": 723.23,
-    "spy_vs_sma200_pct": 6.6,
-    "drawdown_52w_pct": -1.04,
-    "realized_vol_20d": 8.7
+    "spy_price": 773.09,
+    "spy_sma200": 723.24,
+    "spy_vs_sma200_pct": 6.89,
+    "drawdown_52w_pct": -0.77,
+    "realized_vol_20d": 8.8
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "EWW",
-      "composite": 25,
-      "prob": 61,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 52,
-      "asof": "2026-10-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 9.6% en 30 velas con el precio pegado al techo $76.50; posicionamiento ANTES de la ruptura",
-      "stage": 37.7,
-      "stage_rank": 47,
-      "etapa": "MEDIA",
-      "etapa_icon": "\ud83d\udfe1",
-      "upside_left": 10.1,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.34,
-      "zones": {
-        "entry": 75.24,
-        "tp1": 76.52,
-        "tp2": 77.8,
-        "sl": 73.32
-      },
-      "periods": [
-        "1 Semana"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "EWZ",
+      "ticker": "RELY",
       "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
+        "Analysis"
       ]
     },
     {
-      "ticker": "XLE",
+      "ticker": "PLTR",
       "failed": [
-        "Ruptura ya avanzada (madurez 85%)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AHR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "EWZ",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EWW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "XLP",
+      "failed": [
+        "Game Theory"
       ]
     }
   ]
