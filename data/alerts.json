@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-23 13:56:36 (Hora Colombia)",
+  "checked_at": "2026-10-23 18:48:31 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 760.68,
-    "spy_sma200": 724.01,
-    "spy_vs_sma200_pct": 5.07,
-    "drawdown_52w_pct": -2.36,
-    "realized_vol_20d": 9.7
+    "spy_price": 759.97,
+    "spy_sma200": 724.0,
+    "spy_vs_sma200_pct": 4.97,
+    "drawdown_52w_pct": -2.45,
+    "realized_vol_20d": 9.8
   },
   "confirmed": 0,
   "signals": [],
@@ -26,9 +26,15 @@
       ]
     },
     {
+      "ticker": "SNFCA",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "EWZ",
       "failed": [
-        "Radar"
+        "Sin setup temprano (movimiento ya desarrollado)"
       ]
     },
     {
@@ -38,15 +44,15 @@
       ]
     },
     {
-      "ticker": "FEGE",
+      "ticker": "XLE",
       "failed": [
-        "Game Theory"
+        "Ruptura ya avanzada (madurez 86%)"
       ]
     },
     {
-      "ticker": "XLE",
+      "ticker": "XLP",
       "failed": [
-        "Ruptura ya avanzada (madurez 78%)"
+        "Game Theory"
       ]
     }
   ]
