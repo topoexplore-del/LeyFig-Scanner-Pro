@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23 18:48:31 (Hora Colombia)",
+  "checked_at": "2026-10-23 19:19:12 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -14,6 +14,36 @@
   "signals": [],
   "watchlist": [
     {
+      "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SHEL",
       "failed": [
         "Radar"
@@ -26,33 +56,21 @@
       ]
     },
     {
-      "ticker": "SNFCA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "EWZ",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "EWW",
+      "ticker": "PAC",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "XLE",
+      "ticker": "SBFG",
       "failed": [
-        "Ruptura ya avanzada (madurez 86%)"
+        "Analysis"
       ]
     },
     {
-      "ticker": "XLP",
+      "ticker": "SNFCA",
       "failed": [
-        "Game Theory"
+        "Analysis"
       ]
     }
   ]
