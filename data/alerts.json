@@ -1,64 +1,22 @@
 {
-  "checked_at": "2026-10-28 15:08:25 (Hora Colombia)",
+  "checked_at": "2026-10-28 19:39:17 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 772.39,
-    "spy_sma200": 725.23,
-    "spy_vs_sma200_pct": 6.5,
-    "drawdown_52w_pct": -0.86,
+    "spy_price": 769.66,
+    "spy_sma200": 724.81,
+    "spy_vs_sma200_pct": 6.19,
+    "drawdown_52w_pct": -1.21,
     "realized_vol_20d": 10.0
   },
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
-      "ticker": "PLTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SARO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PECO",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "SBFG",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "FA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "EWW",
-      "failed": [
-        "Sin setup temprano (movimiento ya desarrollado)"
-      ]
-    },
-    {
-      "ticker": "RWL",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "XLB",
-      "failed": [
-        "Game Theory"
       ]
     }
   ]
