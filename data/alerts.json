@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29 19:39:24 (Hora Colombia)",
+  "checked_at": "2026-10-29 20:39:34 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -14,9 +14,75 @@
   "signals": [],
   "watchlist": [
     {
-      "ticker": "SHEL",
+      "ticker": "CF",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BOOT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NUE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "failed": [
+        "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
+      "ticker": "LAMR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "EVRG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CAKE",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SLG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "D",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "PNW",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "KDP",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
