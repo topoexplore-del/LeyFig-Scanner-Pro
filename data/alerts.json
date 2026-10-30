@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-29 20:39:34 (Hora Colombia)",
+  "checked_at": "2026-10-30 14:54:11 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 772.31,
-    "spy_sma200": 725.23,
-    "spy_vs_sma200_pct": 6.49,
-    "drawdown_52w_pct": -0.87,
-    "realized_vol_20d": 10.0
+    "spy_price": 754.72,
+    "spy_sma200": 725.98,
+    "spy_vs_sma200_pct": 3.96,
+    "drawdown_52w_pct": -3.13,
+    "realized_vol_20d": 11.8
   },
   "confirmed": 0,
   "signals": [],
@@ -26,6 +26,12 @@
       ]
     },
     {
+      "ticker": "SHC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "BOOT",
       "failed": [
         "Radar"
@@ -38,9 +44,21 @@
       ]
     },
     {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "MNST",
       "failed": [
         "Sin setup temprano (movimiento ya desarrollado)"
+      ]
+    },
+    {
+      "ticker": "SARO",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -51,6 +69,18 @@
     },
     {
       "ticker": "EVRG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AHR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ALRS",
       "failed": [
         "Analysis"
       ]
@@ -69,18 +99,6 @@
     },
     {
       "ticker": "D",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PNW",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "KDP",
       "failed": [
         "Analysis"
       ]
