@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-11-03 15:49:27 (Hora Colombia)",
+  "checked_at": "2026-11-03 20:05:16 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 754.45,
-    "spy_sma200": 726.65,
-    "spy_vs_sma200_pct": 3.82,
-    "drawdown_52w_pct": -3.16,
-    "realized_vol_20d": 11.1
+    "spy_price": 752.1,
+    "spy_sma200": 726.31,
+    "spy_vs_sma200_pct": 3.55,
+    "drawdown_52w_pct": -3.46,
+    "realized_vol_20d": 11.3
   },
-  "confirmed": 8,
+  "confirmed": 6,
   "signals": [
     {
       "ticker": "TXN",
@@ -138,71 +138,6 @@
       },
       "periods": [
         "1 Mes"
-      ]
-    },
-    {
-      "ticker": "RWL",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 0,
-      "mos": null,
-      "rs_rank": 85,
-      "asof": "2026-11-02",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 5.5% en 30 velas con el precio pegado al techo $135.72; posicionamiento ANTES de la ruptura",
-      "stage": 72.6,
-      "stage_rank": 92,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": null,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.15,
-      "zones": {
-        "entry": 135.07,
-        "tp1": 136.07,
-        "tp2": 137.07,
-        "sl": 133.57
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "XLF",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 78,
-      "asof": "2026-11-02",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PRERUPTURA",
-      "setup_icon": "\ud83c\udfaf",
-      "setup_nombre": "Pre-ruptura (base comprimida)",
-      "setup_desc": "Rango estrecho de 7.8% en 30 velas con el precio pegado al techo $57.56; posicionamiento ANTES de la ruptura",
-      "stage": 73.5,
-      "stage_rank": 93,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": null,
-      "entry_mode": "dentro de la base",
-      "pullback_pct": -0.26,
-      "zones": {
-        "entry": 57.41,
-        "tp1": 58.16,
-        "tp2": 58.91,
-        "sl": 56.28
-      },
-      "periods": [
-        "1 Semana",
-        "1-3 Meses"
       ]
     },
     {
@@ -345,12 +280,6 @@
       ]
     },
     {
-      "ticker": "RELY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "KFRC",
       "failed": [
         "Analysis"
@@ -360,6 +289,12 @@
       "ticker": "EXPE",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
       ]
     }
   ]
