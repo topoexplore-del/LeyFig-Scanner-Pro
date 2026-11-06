@@ -1,16 +1,83 @@
 {
-  "checked_at": "2026-11-05 21:02:59 (Hora Colombia)",
+  "checked_at": "2026-11-06 15:44:35 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 766.81,
-    "spy_sma200": 727.12,
-    "spy_vs_sma200_pct": 5.46,
-    "drawdown_52w_pct": -1.58,
-    "realized_vol_20d": 12.8
+    "spy_price": 737.16,
+    "spy_sma200": 727.66,
+    "spy_vs_sma200_pct": 1.31,
+    "drawdown_52w_pct": -5.38,
+    "realized_vol_20d": 20.1
   },
   "confirmed": 0,
   "signals": [],
-  "watchlist": []
+  "watchlist": [
+    {
+      "ticker": "ALRS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "EWW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FXI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MCHI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EZA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FEGE",
+      "failed": [
+        "Ruptura ya avanzada (madurez 61%)"
+      ]
+    },
+    {
+      "ticker": "XLP",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "XLB",
+      "failed": [
+        "Ruptura ya avanzada (madurez 24%)"
+      ]
+    },
+    {
+      "ticker": "XLF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EWG",
+      "failed": [
+        "Game Theory"
+      ]
+    },
+    {
+      "ticker": "XLRE",
+      "failed": [
+        "Game Theory"
+      ]
+    }
+  ]
 }
