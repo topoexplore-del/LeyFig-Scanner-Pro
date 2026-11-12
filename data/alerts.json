@@ -1,26 +1,26 @@
 {
-  "checked_at": "2026-11-11 16:47:06 (Hora Colombia)",
+  "checked_at": "2026-11-11 21:45:03 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 759.81,
-    "spy_sma200": 728.65,
-    "spy_vs_sma200_pct": 4.28,
-    "drawdown_52w_pct": -2.47,
-    "realized_vol_20d": 22.4
+    "spy_price": 749.92,
+    "spy_sma200": 728.3,
+    "spy_vs_sma200_pct": 2.97,
+    "drawdown_52w_pct": -3.74,
+    "realized_vol_20d": 22.0
   },
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
-      "ticker": "NEM",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "CTSH",
+      "ticker": "NEM",
       "failed": [
         "Radar"
       ]
@@ -38,19 +38,13 @@
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "AR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "FHI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TXN",
+      "ticker": "SEZL",
       "failed": [
         "Radar"
       ]
@@ -74,13 +68,7 @@
       ]
     },
     {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
+      "ticker": "NUE",
       "failed": [
         "Radar"
       ]
@@ -94,11 +82,23 @@
     {
       "ticker": "CHE",
       "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 68%)"
       ]
     },
     {
       "ticker": "CNS",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "REGN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BF-B",
       "failed": [
         "Radar"
       ]
