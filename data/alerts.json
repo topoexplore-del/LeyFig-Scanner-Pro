@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17 17:50:08 (Hora Colombia)",
+  "checked_at": "2026-11-17 22:25:39 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -14,30 +14,12 @@
   "signals": [],
   "watchlist": [
     {
-      "ticker": "EOG",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "BWMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "CF",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "COP",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -45,18 +27,6 @@
     },
     {
       "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FHI",
       "failed": [
         "Radar"
       ]
@@ -86,21 +56,51 @@
       ]
     },
     {
-      "ticker": "WTS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "FMX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MDLZ",
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "UNP",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "MET",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "PRI",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BOOT",
+      "failed": [
+        "Radar"
       ]
     }
   ]
