@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18 17:35:01 (Hora Colombia)",
+  "checked_at": "2026-11-18 22:06:47 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,31 +10,55 @@
     "drawdown_52w_pct": -6.28,
     "realized_vol_20d": 22.9
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "QLYS",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -74.6,
+      "rs_rank": 89,
+      "asof": "2026-11-18",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "setup": "PULLBACK",
+      "setup_icon": "\u21a9\ufe0f",
+      "setup_nombre": "Pullback en tendencia",
+      "setup_desc": "Corrigi\u00f3 14.4% desde $230.29 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
+      "stage": 54.8,
+      "stage_rank": 84,
+      "etapa": "TARD\u00cdA",
+      "etapa_icon": "\ud83d\udd34",
+      "upside_left": -27.6,
+      "entry_mode": "al giro (ya corregido)",
+      "pullback_pct": -1.45,
+      "zones": {
+        "entry": 194.38,
+        "tp1": 208.68,
+        "tp2": 222.98,
+        "sl": 172.93
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "CF",
+      "ticker": "FHI",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "BBY",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TXN",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -56,7 +80,7 @@
       ]
     },
     {
-      "ticker": "FMX",
+      "ticker": "WTS",
       "failed": [
         "Radar"
       ]
@@ -68,7 +92,13 @@
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "PGNY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HWM",
       "failed": [
         "Radar"
       ]
@@ -80,27 +110,33 @@
       ]
     },
     {
-      "ticker": "MET",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PRI",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "BOOT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ALL",
+      "ticker": "REGN",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TME",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BF-B",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BMI",
+      "failed": [
+        "Radar"
       ]
     }
   ]
