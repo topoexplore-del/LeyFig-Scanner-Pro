@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19 17:37:01 (Hora Colombia)",
+  "checked_at": "2026-11-19 21:55:38 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,53 +10,11 @@
     "drawdown_52w_pct": -8.11,
     "realized_vol_20d": 23.5
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "QLYS",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -74.6,
-      "rs_rank": 89,
-      "asof": "2026-11-18",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "setup": "PULLBACK",
-      "setup_icon": "\u21a9\ufe0f",
-      "setup_nombre": "Pullback en tendencia",
-      "setup_desc": "Corrigi\u00f3 14.4% desde $230.29 y gira al alza sobre su SMA50; entrada al inicio del siguiente tramo",
-      "stage": 54.8,
-      "stage_rank": 84,
-      "etapa": "TARD\u00cdA",
-      "etapa_icon": "\ud83d\udd34",
-      "upside_left": -27.6,
-      "entry_mode": "al giro (ya corregido)",
-      "pullback_pct": -1.45,
-      "zones": {
-        "entry": 194.38,
-        "tp1": 208.68,
-        "tp2": 222.98,
-        "sl": 172.93
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "FHI",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "BBY",
+      "ticker": "QNST",
       "failed": [
         "Analysis"
       ]
@@ -68,51 +26,21 @@
       ]
     },
     {
-      "ticker": "TOST",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "CBOE",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "WTS",
+      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PGNY",
+      "ticker": "CHE",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HWM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "UNP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BOOT",
-      "failed": [
-        "Radar"
+        "Ruptura ya avanzada (madurez 69%)"
       ]
     },
     {
@@ -122,21 +50,39 @@
       ]
     },
     {
-      "ticker": "TME",
+      "ticker": "ROKU",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BF-B",
-      "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
       "ticker": "BMI",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "AIR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BSV",
+      "failed": [
+        "Game Theory"
+      ]
+    },
+    {
+      "ticker": "VGSH",
+      "failed": [
+        "Game Theory"
+      ]
+    },
+    {
+      "ticker": "IGSB",
+      "failed": [
+        "Game Theory"
       ]
     }
   ]
