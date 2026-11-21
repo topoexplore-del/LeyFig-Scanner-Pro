@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20 17:09:58 (Hora Colombia)",
+  "checked_at": "2026-11-20 22:05:57 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -14,9 +14,9 @@
   "signals": [],
   "watchlist": [
     {
-      "ticker": "QNST",
+      "ticker": "STZ",
       "failed": [
-        "Analysis"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -26,15 +26,21 @@
       ]
     },
     {
-      "ticker": "POWL",
+      "ticker": "PGNY",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "CHE",
+      "ticker": "BOOT",
       "failed": [
-        "Ruptura ya avanzada (madurez 69%)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALL",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -44,9 +50,9 @@
       ]
     },
     {
-      "ticker": "ROKU",
+      "ticker": "BF-B",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     },
     {
@@ -56,31 +62,43 @@
       ]
     },
     {
-      "ticker": "AIR",
+      "ticker": "CB",
       "failed": [
-        "Radar"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BRO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "POWW",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ICCC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SJM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "failed": [
+        "Analysis"
       ]
     },
     {
       "ticker": "BSCS",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "BSV",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "VGSH",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "IGSB",
       "failed": [
         "Game Theory"
       ]
