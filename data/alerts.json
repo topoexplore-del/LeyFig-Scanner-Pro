@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20 22:05:57 (Hora Colombia)",
+  "checked_at": "2026-11-23 21:03:10 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "ticker": "BSCS",
+      "ticker": "DFSD",
       "failed": [
         "Game Theory"
       ]
