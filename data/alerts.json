@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26 18:32:24 (Hora Colombia)",
+  "checked_at": "2026-11-26 23:06:37 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -17,24 +17,6 @@
       "ticker": "QNST",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "DECK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "RL",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "STZ",
-      "failed": [
-        "Radar"
       ]
     },
     {
@@ -62,45 +44,63 @@
       ]
     },
     {
-      "ticker": "EXPD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WTS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "FMX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MMM",
+      "ticker": "MA",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "WM",
+      "ticker": "ADP",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "MDLZ",
+      "ticker": "AMGN",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "PGNY",
+      "ticker": "UL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "UL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "REGN",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "MANH",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "EPAM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SPGI",
+      "failed": [
+        "RS (r\u00e9gimen neutral)"
       ]
     }
   ]
