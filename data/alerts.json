@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27 18:16:01 (Hora Colombia)",
+  "checked_at": "2026-11-27 22:44:32 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -14,9 +14,33 @@
   "signals": [],
   "watchlist": [
     {
-      "ticker": "QNST",
+      "ticker": "CTSH",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DECK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "STZ",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -38,7 +62,25 @@
       ]
     },
     {
-      "ticker": "CBOE",
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EXPD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "WTS",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "GRMN",
       "failed": [
         "Radar"
       ]
@@ -56,49 +98,7 @@
       ]
     },
     {
-      "ticker": "MA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ADP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AMGN",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "UL",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "UL",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "REGN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MANH",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "EPAM",
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
